@@ -9,7 +9,7 @@ Simply run the compiled executable from any unix-based terminal
 
 ```bash
   $> cd /path/to/your-project-folder
-  $> ./cs-quiz
+  $> ./cs-email
   ```
 Of course if you want to compile it from source a simple ```$> make run ``` from the source directory will do the trick.
 
@@ -28,4 +28,4 @@ _Duplicate Item Recursion_
 2. Compare Item A against the next item in the list (Item B).
   a. If the information is the same in both data items, than the items are duplicate.
 3. This process repeats itself, comparing Item A to subsequent items in the list (Item C, Item D, etc.).
-4. The process is complete once Item A is compared against every item in the list. 
+4. The process is complete once Item A is compared against every item in the list.
