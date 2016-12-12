@@ -24,8 +24,16 @@ The output of each email in the inbox is displayed by using the main() member fu
 
 ###Algorithm:
 _Duplicate Item Recursion_
+<<<<<<< HEAD
 1. An item from a list containing some information (Item A).
 2. Compare Item A against the next item in the list (Item B).
   a. If the information is the same in both data items, than the items are duplicate.
 3. This process repeats itself, comparing Item A to subsequent items in the list (Item C, Item D, etc.).
 4. The process is complete once Item A is compared against every item in the list.
+=======
+  1. An item from a list containing some information (Item A).
+  2. Compare Item A against the next item in the list (Item B).
+    1. If the information is the same in both data items, than the items are duplicate.
+  3. This process repeats itself, comparing Item A to subsequent items in the list (Item C, Item D, etc.).
+  4. The process is complete once Item A is compared against every item in the list. 
+>>>>>>> 1b6ae60c334d87c16508dca8e516c97ff00060ca
